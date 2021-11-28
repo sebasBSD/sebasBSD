@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebasBSD
-- 👀 I’m interested in Cyber Security (Offensive) & Software engineering
-- 🌱 I’m currently learning about C programming language
-- 💞️ I’m looking to collaborate on an projects that are not Web-developement
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning about embedded systems
+- 💞️ I’m looking to collaborate on an projects that are andrino or close to hardware
 - 📫 How to reach me on my GitHub page
 
 <!---
