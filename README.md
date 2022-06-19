@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebasBSD
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning about embedded systems
+- 🌱 I’m currently a computer science student
 - 💞️ I’m looking to collaborate on an projects that are andrino or close to hardware
 - 📫 How to reach me on my GitHub page
 
